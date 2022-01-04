@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xinyi</h1>
-<h3 align="center">A passionate full-stack developer from Houston, TX</h3>
+<h3 align="center">A curious and hardworking full-stack developer from Houston, TX</h3>
 
 - 👨‍💻 All of my projects are available at [https://xinyi-yao-portfolio.vercel.app/](https://xinyi-yao-portfolio.vercel.app/)
 
